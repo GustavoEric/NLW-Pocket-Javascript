@@ -77,7 +77,7 @@ Além disso, é recomendável utilizar um editor de código como **[VSCode](http
 
 6. Acesse a aplicação no navegador:
    ```
-   http://localhost:3000
+   http://localhost:5173/
    ```
 
 ## 🔖 Layout

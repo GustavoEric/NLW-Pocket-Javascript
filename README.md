@@ -52,7 +52,7 @@ Além disso, é recomendável utilizar um editor de código como **[VSCode](http
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nlw-projeto.git
+   git clone https://github.com/seu-usuario/NLW-Pocket-Javascript.git
    ```
 
 2. Acesse a pasta do projeto:

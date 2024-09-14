@@ -80,20 +80,5 @@ Além disso, é recomendável utilizar um editor de código como **[VSCode](http
    http://localhost:5173/
    ```
 
-## 🔖 Layout
 
-O layout do projeto pode ser acessado no **[Figma](https://www.figma.com/)**:
-
-[Link para o layout do Figma](https://www.figma.com/)
-
-## 📄 Licença
-
-Este projeto está sob a licença [nome da licença, ex: MIT]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito com 💜 por [Seu Nome](https://www.linkedin.com/in/seu-perfil-linkedin/)
-
----
-
-Esse template de README pode ser facilmente ajustado conforme o projeto específico, basta alterar as descrições e tecnologias utilizadas!
+Feito por [Gustavo Eric Alves Melo](https://www.linkedin.com/in/gustavo-ericalves-melo-4a6434227)
